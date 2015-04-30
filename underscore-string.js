@@ -1,0 +1,1 @@
+s = Npm.require('underscore.string');

@@ -1,0 +1,1 @@
+Official version [underscorestring:underscore.string](https://atmospherejs.com/underscorestring/underscore.string) doesn't work from packages - see https://github.com/epeli/underscore.string/issues/419
